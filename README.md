@@ -1,6 +1,6 @@
 **The Bookshelf Website**
 
-The Bookshelf is a website built using React.js, Vite, React Router DOM, Tailwind CSS, Tailwind UI, Sonnar Toast, Headless UI, Heroicons, and other libraries. It allows users to view book details and add books to their reading list and wishlist.
+The Bookshelf is a website built using React.js, Vite, React Router DOM, Tailwind CSS, Tailwind UI, Sonner Toast, Headless UI, Heroicons, and other libraries. It allows users to view book details and add books to their reading list and wishlist.
 
 **Live Website Url:** https://thebookshelf-abid.netlify.app/
 

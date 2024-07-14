@@ -9,7 +9,7 @@ The Bookshelf is a website built using React.js, Vite, React Router DOM, Tailwin
 - Add to Reading List: Users can add books to their reading list.
 - Add to Wishlist: Users can add books to their wishlist for future reference.
 - Responsive Design: The website is designed to be responsive and work seamlessly across different devices.
-- Toast Notifications: Sonnar Toast is used to display notifications such as adding a book to the reading list or wishlist.
+- Toast Notifications: Sonner Toast is used to display notifications such as adding a book to the reading list or wishlist.
 
 **Technologies Used**
 - React.js
@@ -17,7 +17,7 @@ The Bookshelf is a website built using React.js, Vite, React Router DOM, Tailwin
 - React Router DOM
 - Tailwind CSS
 - Tailwind UI
-- Sonnar Toast
+- Sonner Toast
 - Headless UI
 - Heroicons
 - daisyUI
